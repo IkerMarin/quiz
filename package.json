@@ -8,7 +8,7 @@
   "engines": {
 	"node": "0.12.5",
 	"npm": "2.11.2"
-  }
+  },
   "dependencies": {
     "express": "~4.9.0",
     "body-parser": "~1.8.1",
